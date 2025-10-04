@@ -78,5 +78,7 @@ Sample Insights:
 This HR Analytics Dashboard highlights crucial insights to help HR teams understand attrition drivers, prioritize employee engagement strategies, and improve retention outcomes effectively.
 
 👩‍💼 **Author**
+
 Riya Dey
+
 💼 Data Analyst | Skilled in Excel, Power BI, SQL
