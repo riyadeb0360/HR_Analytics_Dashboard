@@ -1,11 +1,14 @@
 # HR_Analytics_Dashboard
 
 📊 **Project Overview**
+
 The HR Analytics Dashboard provides an interactive overview of key HR metrics to help organizations understand employee attrition trends and workforce demographics.
 It visualizes data related to employee count, attrition rate, salary distribution, education background, job roles, states, and years of experience.
 
 🎯 **Objective**
+
 The goal of this dashboard is to:
+
 •	Identify the main causes of employee attrition.
 •	Understand patterns based on age, education, salary slab, and job role.
 •	Support HR departments in taking data-driven decisions to improve retention and workforce planning.
